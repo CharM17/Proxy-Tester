@@ -3,7 +3,7 @@
 <p align="center">A simple Python program used for testing proxy servers to see if they are active. </p>
 
 ## <p align="center">Requirements</p>
-`pip install arsenic`
+<p align="center"> pip install arsenic </p>
 
 # <p align="center">How to Use</p>
 
